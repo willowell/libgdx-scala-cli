@@ -1,0 +1,16 @@
+# Ignore Scala Language Server & Build Server files
+.metals
+.bloop
+.bsp
+.scala-build
+
+# Ignore IDE metadata
+.idea
+.vscode/settings.json
+
+# Ignore build output
+out
+target
+
+# Ignore miscellaneous filesystem stuff
+.DS_Store
